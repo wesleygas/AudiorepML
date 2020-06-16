@@ -1,0 +1,2 @@
+model_checkpoint_path: "dense_conv"
+all_model_checkpoint_paths: "dense_conv"
